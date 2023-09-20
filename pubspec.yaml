@@ -1,6 +1,6 @@
 name: wakelock_service
-description: A Very Good Project created by Very Good CLI.
-version: 0.1.0+1
+description: Wakelock Service
+version: 1.0.0
 publish_to: none
 
 environment:
