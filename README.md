@@ -23,7 +23,7 @@ dependencies:
   wakelock_service:
     git:
       url: https://github.com/BBKDevelopment/Wakelock-Service.git
-      ref: v1.0.0
+      ref: v1.1.0
 ```
 
 Install it:
